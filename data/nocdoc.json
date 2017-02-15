@@ -1,0 +1,64 @@
+{
+  "accounts": [
+    {
+      "lan": "10625000029991",
+      "outstanding": 55000,
+      "nocapplicable": true,
+      "prodname": "Vehicle Loan",
+      "requestdate": "2017-02-15T09:29:42.215Z",
+      "closuredate": null,
+      "rcnumber": "12345678",
+      "awbnumber": "null"
+    },
+    {
+      "lan": "10625000029992",
+      "outstanding": 0,
+      "nocapplicable": false,
+      "prodname": "Personal Loan",
+      "requestdate": "2017-02-15T09:29:42.216Z",
+      "closuredate": "2017-02-01T00:00:00.000Z",
+      "rcnumber": "null",
+      "awbnumber": "null"
+    },
+    {
+      "lan": "10625000029993",
+      "outstanding": 0,
+      "nocapplicable": true,
+      "prodname": "Vehicle Loan",
+      "requestdate": "2017-02-15T09:29:42.217Z",
+      "closuredate": "2017-02-10T00:00:00.000Z",
+      "rcnumber": "12345679",
+      "awbnumber": "null"
+    },
+    {
+      "lan": "10625000029994",
+      "outstanding": 0,
+      "nocapplicable": true,
+      "prodname": "Vehicle Loan",
+      "requestdate": "2017-02-15T09:29:42.219Z",
+      "closuredate": "2017-02-01T00:00:00.000Z",
+      "rcnumber": "null",
+      "awbnumber": "null"
+    },
+    {
+      "lan": "10625000029995",
+      "outstanding": 0,
+      "nocapplicable": true,
+      "prodname": "Vehicle Loan",
+      "requestdate": "2017-02-15T09:29:42.220Z",
+      "closuredate": "2017-02-01T00:00:00.000Z",
+      "rcnumber": "12345677",
+      "awbnumber": "98765431"
+    },
+    {
+      "lan": "10625000029996",
+      "outstanding": 0,
+      "nocapplicable": true,
+      "prodname": "Vehicle Loan",
+      "requestdate": "2017-02-15T09:29:42.221Z",
+      "closuredate": "2017-02-01T00:00:00.000Z",
+      "rcnumber": "12345655",
+      "awbnumber": "null"
+    }
+  ]
+}
